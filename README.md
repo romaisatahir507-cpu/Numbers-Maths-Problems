@@ -26,8 +26,6 @@ Determine whether a number is **prime or not**
 Calculate the sum of all digits of a number using modulo and division operations.
 
 Example:
-```
-
 Input: 1234
 Output: 10
 
@@ -47,5 +45,6 @@ Output: 4321
 Generate all prime numbers from 2 to N using:
 
 Basic prime checking method
+
 
 Author:  Created for learning and practice purposes in Python programming.
